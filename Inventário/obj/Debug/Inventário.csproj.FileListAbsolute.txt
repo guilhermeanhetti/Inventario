@@ -1,0 +1,5 @@
+C:\Users\rafael.bretas\Desktop\Inventário\Inventário\bin\Debug\Inventário.exe.config
+C:\Users\rafael.bretas\Desktop\Inventário\Inventário\bin\Debug\Inventário.exe
+C:\Users\rafael.bretas\Desktop\Inventário\Inventário\bin\Debug\Inventário.pdb
+C:\Users\rafael.bretas\Desktop\Inventário\Inventário\obj\Debug\Inventário.exe
+C:\Users\rafael.bretas\Desktop\Inventário\Inventário\obj\Debug\Inventário.pdb
